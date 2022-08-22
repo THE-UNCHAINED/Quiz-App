@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:angela/question_modal.dart';
+import 'package:question_modal.dart';
 
 class QuizScreen extends StatefulWidget {
   const QuizScreen({Key? key}) : super(key: key);
